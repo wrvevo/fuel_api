@@ -2,7 +2,7 @@ curl --location 'http://localhost:8080/api/consumos/sync' \
 --header 'Content-Type: application/json' \
 --data '{
     "id": "2f9c8b4e-6c7d-4c1a-9e12-4e9b7c1d1111",
-    "bombaId": "f03d0dcb-c8ab-4cf4-9264-b69181b4a25a",
+    "bombaId": "866E8918-B82F-47C7-93B5-4B8A1F3708BE",
     "litros": 10.0,
     "dataConsumo": "2026-02-10T10:15:00",
     "origem": "DESK_CLIE_1010"
